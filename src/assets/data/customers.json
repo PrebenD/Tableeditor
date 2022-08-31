@@ -1,0 +1,31 @@
+{
+	"data": [
+		{
+			"id": "1000",			
+			"name": "Bilfabrikken",
+			"orgnumber": "123456789",
+			"print": true,
+			"email": true,
+			"einvoice": false,
+			"emailaddress": "preben@linknordic.com"
+		},
+		{
+			"id": "1001",			
+			"name": "Bilfabrikken2",
+			"orgnumber": "123456789",
+			"print": true,
+			"email": true,
+			"einvoice": true,
+			"emailaddress": "preben1@linknordic.com"
+		},
+		{
+			"id": "1002",			
+			"name": "Bilfabrikken3",
+			"orgnumber": "123456789",
+			"print": false,
+			"email": true,
+			"einvoice": true,
+			"emailaddress": "preben2@linknordic.com"
+		}
+	]
+}
